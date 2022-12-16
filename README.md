@@ -1,7 +1,4 @@
-# PA5: LISTS (C++)
-Diwa Ashwini Vittala    
-dashwini
-
+# LISTS (C++) [CSE 101]
 ## Assignment details
 The Shuffle.cpp program shuffles a list on repeat and determines how many shuffles are 
 neccessary to turn it back into the original list.
